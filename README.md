@@ -12,4 +12,4 @@
  
  
  
- <img align="right" height="40em" src="https://gist.github.com/Mateusnasciment/ad46f6d4f703fc2030016d67bbf3bf5b"/>
+<img align="left" height="700em" src="https://gist.githubusercontent.com/Mateusnasciment/ad46f6d4f703fc2030016d67bbf3bf5b/raw/cfce35c2d54fc8616d617d92da5149930c19e186/dash.svg"/>
