@@ -1,6 +1,6 @@
 # Dashboard-python
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
-
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
 
 
